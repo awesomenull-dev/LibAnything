@@ -1,3 +1,4 @@
+# this project no longer developed. don't use it
 # LibAnything
 
 Low-level filesystem indexer — walks `/` recursively and writes a binary `.anythingindex` file.
